@@ -1,5 +1,12 @@
+<h1 align="center"> API-Restful--Vendas </h1>
 
+Design of a backend application for :<br>
+1. Sales management with features- create, register, replace and delete products, customers and purchase requisitions <br>
+2. Application user management, with authentication via JWT Token, password recovery via email, profile and avatar update.
 
-Criação de um aplicação backend para :<br>
-1.gestão de vendas com funcionalidades para criação,cadastro, substituição e remoção de produtos, clientes e requisição de compras <br>
-2.gestão de usuários da aplicação, com autenticação via Token JWT, recuperação de senha por email, atualização de perfil, atualização de avatar e proteção contra ataques DDoS.
+<h2> Running the application on your PC </h2>
+Clone this repository and install it in your development environment using the following command in your terminal (choose an appropriate directory):
+
+```
+>git clone
+```
