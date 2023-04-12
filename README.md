@@ -8,5 +8,18 @@ Design of a backend application for :<br>
 Clone this repository and install it in your development environment using the following command in your terminal (choose an appropriate directory):
 
 ```
->git clone
+>git clone https://github.com/brunamolinar/API-Restful--Vendas.git
 ```
+Access the created directory and install the dependencies:
+
+```
+>cd API-Restful--Vendas
+
+>yarn
+
+or
+
+>npm install
+```
+
+Enjoy !<p style="font-size:100px">&#128513;</p>
