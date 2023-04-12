@@ -21,5 +21,6 @@ or
 
 >npm install
 ```
+The application will be available at http://localhost:3333
 
 Enjoy !<p style="font-size:100px">&#128513;</p>
