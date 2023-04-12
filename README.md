@@ -4,6 +4,8 @@ Design of a backend application for :<br>
 1. Sales management with features- create, register, replace and delete products, customers and purchase requisitions <br>
 2. Application user management, with authentication via JWT Token, password recovery via email, profile and avatar update.
 
+Frontend currently on development
+
 <h2> Running the application on your PC </h2>
 Clone this repository and install it in your development environment using the following command in your terminal (choose an appropriate directory):
 
