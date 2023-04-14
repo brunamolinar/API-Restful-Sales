@@ -1,4 +1,4 @@
-<h1 align="center"> API-Restful--Vendas </h1>
+<h1 align="center"> API-Restful-Sales </h1>
 
 Design of a backend application for :<br>
 1. Sales management with features- create, register, replace and delete products, customers and purchase requisitions <br>
